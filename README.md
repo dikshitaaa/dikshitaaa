@@ -41,7 +41,12 @@
 ###  Projects
 - 🔹 Portfolio Website  
 - 🔹 Python Practice Programs  
-- 🔹 Cyber Security Notes  
+- 🔹 Cyber Security Notes
+
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dikshitaaa&show_icons=true&theme=tokyonight" />
+</p>
+
 
 ---
 

@@ -1,4 +1,11 @@
-## Hi there 👋
+
+  
+</p>
+<p align="center">
+
+ Cyber Security:
+- Web Security Fundamentals  <img src="https://skillicons.dev/icons?i=css,git,github" />
+</p>## Hi there 👋
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Hi+I'm+Dikshita+;Cyber+Security+Learner+;BTech+CSE+Student;Learning+Step+by+Step" />
 </p>
@@ -20,14 +27,7 @@
 
 ###  Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,html,css,git,github" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=css,git,github" />
-</p>
-
- Cyber Security:
-- Web Security Fundamentals  
+  <img src="https://skillicons.dev/icons?i=python,linux,html" />
 - HTTP / HTTPS  
 - Cookies & Sessions  
 
@@ -41,7 +41,12 @@
 ###  Projects
 - 🔹 Portfolio Website  
 - 🔹 Python Practice Programs  
-- 🔹 Cyber Security Notes  
+- 🔹 Cyber Security Notes
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dikshitaaa&show_icons=true&theme=tokyonight" />
+</p>
+
 
 ---
 

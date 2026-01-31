@@ -20,10 +20,10 @@
 
 ### 🛠️ Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,html" />
+  <img src="https://skillicons.dev/icons?i=python,linux,html&size=50" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=css,git,github" />
+  <img src="https://skillicons.dev/icons?i=css,git,github&size=50" />
 </p>
 
  Cyber Security:

@@ -44,8 +44,9 @@
 - 🔹 Cyber Security Notes
 
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dikshitaaa&show_icons=true&theme=tokyonight" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
+
 
 
 ---

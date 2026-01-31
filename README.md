@@ -9,10 +9,10 @@
 
 ###  About Me
 -  BTech CSE student  
--  Learning Cyber Security from basics  
--  Python (Basics)  
--  Linux (Basics)  
-- Exploring Web Security & Networking  
+-  Learning Cyber Security  
+-  Python 
+-  Linux   
+-  Exploring Web & Networking security
 -  Goal : To grow in the Technical field
 
 ---
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=css,git,github,linkedin" />
+  <img src="https://skillicons.dev/icons?i=css,C++,github" />
 </p>
 
 
@@ -48,6 +48,11 @@ Currently Learning:
   <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dikshitaaa&show_icons=true&theme=tokyonight" />
+</p>
+
 
 ---
 

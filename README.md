@@ -15,9 +15,6 @@
 -  Exploring Web & Networking security
 -  Goal : To grow in the Technical field
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dikshitaaa&theme=onedark&no-frame=true" />
-</p>
 
 ---
 

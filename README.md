@@ -1,6 +1,9 @@
 ## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Hi+I'm+Dikshita+;Cyber+Security+Learner+;BTech+CSE+Student;Learning+Step+by+Step" />
+</p>
 
-<h1 align="center">Hi , I'm Dikshita</h1>
+<h1 align="center"> I'm Dikshita</h1>
 <h3 align="center">BTech CSE Student | Cyber Security Learner </h3>
 
 ---
@@ -19,6 +22,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,linux,html,css,git,github" />
 </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=css,git,github" />
+</p>
 
  Cyber Security:
 - Web Security Fundamentals  
@@ -26,7 +32,8 @@
 - Cookies & Sessions  
 
  Currently Learning:
-- Networking Basics  
+- web development basics
+- Networking basics
 - Burp Suite (Beginner)
 
 ---

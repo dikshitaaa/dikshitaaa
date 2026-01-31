@@ -23,10 +23,8 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=css,C++,github" />
+  <img src="https://skillicons.dev/icons?i=css,git,github" />
 </p>
-
-
 
  Cyber Security:
 - Web Security Fundamentals  
@@ -47,10 +45,6 @@ Currently Learning:
 
   <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dikshitaaa&show_icons=true&theme=tokyonight" />
 </p>
 
 

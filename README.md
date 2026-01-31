@@ -17,12 +17,12 @@
 
 ---
 
-### 🛠️ Skills & Tools
+###  Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,html&size=60" />
+  <img src="https://skillicons.dev/icons?i=python,linux,html" />
 </p
   <p align="center">
-  <img src="https://skillicons.dev/icons?i=css,git,github&size=60" />
+  <img src="https://skillicons.dev/icons?i=css,git,github" />
 </p>
 
 
@@ -53,4 +53,4 @@ Currently Learning:
 -  LinkedIn: https://www.linkedin.com/in/dikshita-verma-39aa82329
 
 
-⭐ *Learning consistently and building strong foundations*
+ *Learning consistently and building strong foundations*

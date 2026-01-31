@@ -15,7 +15,6 @@
 -  Exploring Web & Networking security
 -  Goal : To grow in the Technical field
 
-
 ---
 
 ###  Skills & Tools
@@ -39,20 +38,20 @@ Currently Learning:
 
 ---
 
-###  Projects
+###  Projects and learnings
 - 🔹 Portfolio Website using HTML & CSS : https://github.com/dikshitaaa/Portfolio
 - 🔹 URL detector using python : https://github.com/dikshitaaa/urlproject
 - 🔹 Terminal resume on kali linux : https://github.com/dikshitaaa/terminal-resume
+- 🔹 Tryhackme rooms : https://tryhackme.com/p/Dikshitaa
 
   <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
-
 ---
 
 ###  Connect With Me
--  LinkedIn: https://www.linkedin.com/in/dikshita-verma-39aa82329
-
+-  LinkedIn:  https://www.linkedin.com/in/dikshita-verma-39aa82329
+-  Tryhackme: https://tryhackme.com/p/Dikshitaa
 
  *Learning consistently and building strong foundations*

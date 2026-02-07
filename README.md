@@ -38,24 +38,11 @@
 - 🔹 [Portfolio Website](https://github.com/dikshitaaa/Portfolio) – HTML & CSS  
 - 🔹 [URL Detector](https://github.com/dikshitaaa/urlproject) – Python  
 - 🔹 [Terminal Resume](https://github.com/dikshitaaa/terminal-resume) – Kali Linux  
-- 🔹 TryHackMe Rooms – [Dikshitaa](https://tryhackme.com/p/Dikshitaa)  
+- 🔹 [TryHackMe Rooms] –(https://tryhackme.com/p/Dikshitaa)  
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
-
----
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dikshitaaa&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshitaaa&layout=compact&theme=dark&hide_border=true" />
-</p>
-
 
 ---
 
@@ -72,4 +59,4 @@
   </a>
 </p>
 
-*Learning consistently, building strong foundations & exploring the world of Cyber Security 🔐*
+    *Learning consistently, building strong foundations & exploring the world of Cyber Security 🔐*

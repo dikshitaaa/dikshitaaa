@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Cyber+Security+Learner+;Building+Strong+Foundations" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Cyber+Security+Learner+;Building+Strong+Foundations&color=9B59B6" />
+
 </p>
 
 <h1 align="center">Hi , I'm Dikshita</h1>
 <h3 align="center">BTech CSE Student | Cyber Security Learner </h3>
-
-![Profile Views](https://komarev.com/ghpvc/?username=dikshitaaa&color=blue)
-
 
 ---
 
@@ -17,9 +15,6 @@
 -  Linux   
 -  Exploring Web & Networking security
 -  Goal : To grow in the Technical field
-
-  ![Dikshita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dikshitaaa&show_icons=true&theme=radical)
-
 
 ---
 

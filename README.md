@@ -5,6 +5,9 @@
 <h1 align="center">Hi , I'm Dikshita</h1>
 <h3 align="center">BTech CSE Student | Cyber Security Learner </h3>
 
+![Profile Views](https://komarev.com/ghpvc/?username=dikshitaaa&color=blue)
+
+
 ---
 
 ###  About Me

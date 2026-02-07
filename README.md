@@ -23,14 +23,14 @@
 </p>
 
 **Cyber Security Skills:**  
-- Web Security Fundamentals 🔐  
-- HTTP / HTTPS 🌐  
-- Cookies & Sessions 🍪  
+- Web Security Fundamentals 
+- HTTP / HTTPS 
+- Cookies & Sessions 
 
 **Currently Learning:**  
-- Networking Basics 🌐  
-- Burp Suite (Beginner) 🛠️  
-- Web Security (basics) 💻  
+- Networking Basics 
+- Burp Suite (Beginner) 
+- Web Security (basics)   
 
 ---
 
@@ -46,14 +46,16 @@
 
 ---
 
-### GitHub Stats
+<!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dikshitaaa&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
+<!-- Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshitaaa&layout=compact&theme=dark&hide_border=true" />
 </p>
+
 
 ---
 

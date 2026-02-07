@@ -35,7 +35,7 @@
 ---
 
 ### Projects & Learnings
-- 🔹 [Portfolio Website](https://github.com/dikshitaaa/Portfolio) – HTML & CSS  
+- 🔹 [Portfolio Website](https://dikshitaaa.github.io/Portfolio/) – HTML & CSS  
 - 🔹 [URL Detector](https://github.com/dikshitaaa/urlproject) – Python  
 - 🔹 [Terminal Resume](https://github.com/dikshitaaa/terminal-resume) – Kali Linux  
 - 🔹 [TryHackMe Rooms] –(https://tryhackme.com/p/Dikshitaa)  

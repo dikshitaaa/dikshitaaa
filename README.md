@@ -18,6 +18,9 @@
 -  Exploring Web & Networking security
 -  Goal : To grow in the Technical field
 
+  ![Dikshita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dikshitaaa&show_icons=true&theme=radical)
+
+
 ---
 
 ###  Skills & Tools

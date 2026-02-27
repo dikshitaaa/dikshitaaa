@@ -12,7 +12,7 @@
 - 🔒 Learning Cyber Security  
 - 🐍 Python & Bash Scripting  
 - 🐧 Linux User & Enthusiast  
-- 🌐 Exploring Web & Networking Security  
+- 🌐 Exploring Network and web security  
 - 🎯 Goal: Grow in the Technical field  
 
 ---
@@ -23,14 +23,29 @@
 </p>
 
 **Cyber Security Skills:**  
-- Web Security Fundamentals 
-- HTTP / HTTPS 
-- Cookies & Sessions 
 
-**Currently Learning:**  
-- Networking Basics 
-- Burp Suite (Beginner) 
-- Web Security (basics)   
+Skills & Tools
+
+Programming & Scripting:
+Python , Bash , SQL
+
+Web & Networking:
+
+HTML, CSS, HTTP/HTTPS, Cookies & Sessions
+
+Networking Basics 
+
+Tools nmap & wireshark
+
+Cyber Security Tools & Skills:
+Kali Linux , Burp Suite (Beginner)
+
+Web Security Fundamentals
+TryHackMe Labs & Portswigger
+
+Other Tools & Platforms:
+
+Git & GitHub, VS Code, VMware
 
 ---
 

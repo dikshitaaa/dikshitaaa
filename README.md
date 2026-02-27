@@ -23,9 +23,10 @@ Skills & Tools
 **Cyber Security Skills:**
 
 - Network and web security
+- Tools - nmap and wireshark
 - HTTP / HTTPS 
 - Cookies & Sessions
-- 
+
 **Currently Learning:**
 - Networking Basics
 - Burp Suite (Beginner)

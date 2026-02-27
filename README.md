@@ -17,36 +17,30 @@
 
 ---
 
-### Skills & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,html,css,git,github,bash" />
-</p>
-
-**Cyber Security Skills:**  
-
 Skills & Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,linux,html,css,git,github,bash" /> </p>
 
 Programming & Scripting:
-Python , Bash , SQL
+
+Python 🐍, Bash 🐚, SQL
 
 Web & Networking:
 
 HTML, CSS, HTTP/HTTPS, Cookies & Sessions
 
-Networking Basics 
-
-Tools nmap & wireshark
+Networking Basics
 
 Cyber Security Tools & Skills:
-Kali Linux , Burp Suite (Beginner)
+
+Kali Linux 🐧, Burp Suite (Beginner)
 
 Web Security Fundamentals
-TryHackMe Labs & Portswigger
+
+TryHackMe Labs & Challenges
 
 Other Tools & Platforms:
 
 Git & GitHub, VS Code, VMware
-
 ---
 
 ### Projects & Learnings

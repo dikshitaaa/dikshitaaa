@@ -20,28 +20,16 @@
 Skills & Tools
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,linux,html,css,git,github,bash" /> </p>
 
-Programming & Scripting:
+**Cyber Security Skills:**
 
-Python 🐍, Bash 🐚, SQL
-
-Web & Networking:
-
-HTML, CSS, HTTP/HTTPS, Cookies & Sessions
-
-Networking Basics
-
-Cyber Security Tools & Skills:
-
-Kali Linux 🐧, Burp Suite (Beginner)
-
-Web Security Fundamentals
-
-TryHackMe Labs & Challenges
-
-Other Tools & Platforms:
-
-Git & GitHub, VS Code, VMware
----
+- Network and web security
+- HTTP / HTTPS 
+- Cookies & Sessions
+- 
+**Currently Learning:**
+- Networking Basics
+- Burp Suite (Beginner)
+- Web Security (basics)
 
 ### Projects & Learnings
 - 🔹 [Portfolio Website](https://dikshitaaa.github.io/Portfolio/) – HTML & CSS  

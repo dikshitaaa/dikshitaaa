@@ -22,21 +22,19 @@ Skills & Tools
 
 **Cyber Security Skills:**
 
-- Network and web security
-- Tools - nmap and wireshark
-- HTTP / HTTPS 
-- Cookies & Sessions
+- Linux
+- Bash scripting 
+- Advance python (automation)
+- Logs analysis
+- Networking concepts
 
-**Currently Learning:**
-- Networking Basics
-- Burp Suite (Beginner)
-- Web Security (basics)
 
 ### Projects & Learnings
-- 🔹 [Portfolio Website](https://dikshitaaa.github.io/Portfolio/) – HTML & CSS  
-- 🔹 [URL Detector](https://github.com/dikshitaaa/urlproject) – Python  
-- 🔹 [Terminal Resume](https://github.com/dikshitaaa/terminal-resume) – Kali Linux  
-- 🔹 [TryHackMe Rooms] –(https://tryhackme.com/p/Dikshitaa)  
+-  [Portfolio Website](https://dikshitaaa.github.io/Portfolio/) – HTML & CSS  
+-  [URL Detector](https://github.com/dikshitaaa/urlproject) – Python  
+-  [Terminal Resume](https://github.com/dikshitaaa/terminal-resume) – Kali Linux  
+-  [Bash log analyser]-(https://github.com/dikshitaaa/Bash_log_analyser) - Bash scripted
+-  [TryHackMe Rooms] –(https://tryhackme.com/p/Dikshitaa)
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />

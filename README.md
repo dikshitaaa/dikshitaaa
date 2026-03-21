@@ -33,7 +33,7 @@ Skills & Tools
 -  [Portfolio Website](https://dikshitaaa.github.io/Portfolio/) – HTML & CSS  
 -  [URL Detector](https://github.com/dikshitaaa/urlproject) – Python  
 -  [Terminal Resume](https://github.com/dikshitaaa/terminal-resume) – Kali Linux  
--  [Bash log analyser]-(https://github.com/dikshitaaa/Bash_log_analyser) - Bash scripted
+-  [Bash log analyser]-(https://github.com/dikshitaaa/Bash_log_analyser) - Bash scripting
 -  [TryHackMe Rooms] –(https://tryhackme.com/p/Dikshitaa)
 
 <p align="center">
